@@ -1,0 +1,6 @@
+.Feedback_statistics{
+    padding-left: 5px;
+}
+.Feedback_statistics > li{
+    list-style: none;
+}
