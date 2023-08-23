@@ -1,4 +1,4 @@
-import React from "react"
+
 import PropTypes from 'prop-types'
 import "./FeedbackOptions.css"
 
@@ -12,6 +12,7 @@ function FeedbackOptions ({options, onLeaveFeedback}) {
                 {option}
             </button>
             ))
+      
             
     }
 
